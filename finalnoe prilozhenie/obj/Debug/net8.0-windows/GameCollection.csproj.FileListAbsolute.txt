@@ -1,0 +1,53 @@
+D:\123\nice\GameCollection\bin\Debug\net8.0-windows\appsettings.json
+D:\123\nice\GameCollection\bin\Debug\net8.0-windows\GameCollection.exe
+D:\123\nice\GameCollection\bin\Debug\net8.0-windows\GameCollection.deps.json
+D:\123\nice\GameCollection\bin\Debug\net8.0-windows\GameCollection.runtimeconfig.json
+D:\123\nice\GameCollection\bin\Debug\net8.0-windows\GameCollection.dll
+D:\123\nice\GameCollection\bin\Debug\net8.0-windows\GameCollection.pdb
+D:\123\nice\GameCollection\bin\Debug\net8.0-windows\ClosedXML.dll
+D:\123\nice\GameCollection\bin\Debug\net8.0-windows\DocumentFormat.OpenXml.dll
+D:\123\nice\GameCollection\bin\Debug\net8.0-windows\ExcelNumberFormat.dll
+D:\123\nice\GameCollection\bin\Debug\net8.0-windows\Irony.dll
+D:\123\nice\GameCollection\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\123\nice\GameCollection\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+D:\123\nice\GameCollection\bin\Debug\net8.0-windows\Npgsql.dll
+D:\123\nice\GameCollection\bin\Debug\net8.0-windows\SixLabors.Fonts.dll
+D:\123\nice\GameCollection\bin\Debug\net8.0-windows\XLParser.dll
+D:\123\nice\GameCollection\obj\Debug\net8.0-windows\GameCollection.csproj.AssemblyReference.cache
+D:\123\nice\GameCollection\obj\Debug\net8.0-windows\GameCollection.GeneratedMSBuildEditorConfig.editorconfig
+D:\123\nice\GameCollection\obj\Debug\net8.0-windows\GameCollection.AssemblyInfoInputs.cache
+D:\123\nice\GameCollection\obj\Debug\net8.0-windows\GameCollection.AssemblyInfo.cs
+D:\123\nice\GameCollection\obj\Debug\net8.0-windows\GameCollection.csproj.CoreCompileInputs.cache
+D:\123\nice\GameCollection\obj\Debug\net8.0-windows\GameColl.2ED1EDD2.Up2Date
+D:\123\nice\GameCollection\obj\Debug\net8.0-windows\GameCollection.dll
+D:\123\nice\GameCollection\obj\Debug\net8.0-windows\refint\GameCollection.dll
+D:\123\nice\GameCollection\obj\Debug\net8.0-windows\GameCollection.pdb
+D:\123\nice\GameCollection\obj\Debug\net8.0-windows\GameCollection.genruntimeconfig.cache
+D:\123\nice\GameCollection\obj\Debug\net8.0-windows\ref\GameCollection.dll
+D:\123\games collection\games collectin\finalnoe prilozhenie\bin\Debug\net8.0-windows\appsettings.json
+D:\123\games collection\games collectin\finalnoe prilozhenie\bin\Debug\net8.0-windows\GameCollection.exe
+D:\123\games collection\games collectin\finalnoe prilozhenie\bin\Debug\net8.0-windows\GameCollection.deps.json
+D:\123\games collection\games collectin\finalnoe prilozhenie\bin\Debug\net8.0-windows\GameCollection.runtimeconfig.json
+D:\123\games collection\games collectin\finalnoe prilozhenie\bin\Debug\net8.0-windows\GameCollection.dll
+D:\123\games collection\games collectin\finalnoe prilozhenie\bin\Debug\net8.0-windows\GameCollection.pdb
+D:\123\games collection\games collectin\finalnoe prilozhenie\bin\Debug\net8.0-windows\ClosedXML.dll
+D:\123\games collection\games collectin\finalnoe prilozhenie\bin\Debug\net8.0-windows\DocumentFormat.OpenXml.dll
+D:\123\games collection\games collectin\finalnoe prilozhenie\bin\Debug\net8.0-windows\ExcelNumberFormat.dll
+D:\123\games collection\games collectin\finalnoe prilozhenie\bin\Debug\net8.0-windows\Irony.dll
+D:\123\games collection\games collectin\finalnoe prilozhenie\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\123\games collection\games collectin\finalnoe prilozhenie\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+D:\123\games collection\games collectin\finalnoe prilozhenie\bin\Debug\net8.0-windows\Npgsql.dll
+D:\123\games collection\games collectin\finalnoe prilozhenie\bin\Debug\net8.0-windows\SixLabors.Fonts.dll
+D:\123\games collection\games collectin\finalnoe prilozhenie\bin\Debug\net8.0-windows\XLParser.dll
+D:\123\games collection\games collectin\finalnoe prilozhenie\obj\Debug\net8.0-windows\GameCollection.csproj.AssemblyReference.cache
+D:\123\games collection\games collectin\finalnoe prilozhenie\obj\Debug\net8.0-windows\GameCollection.GeneratedMSBuildEditorConfig.editorconfig
+D:\123\games collection\games collectin\finalnoe prilozhenie\obj\Debug\net8.0-windows\GameCollection.AssemblyInfoInputs.cache
+D:\123\games collection\games collectin\finalnoe prilozhenie\obj\Debug\net8.0-windows\GameCollection.AssemblyInfo.cs
+D:\123\games collection\games collectin\finalnoe prilozhenie\obj\Debug\net8.0-windows\GameCollection.csproj.CoreCompileInputs.cache
+D:\123\games collection\games collectin\finalnoe prilozhenie\obj\Debug\net8.0-windows\GameCollection.sourcelink.json
+D:\123\games collection\games collectin\finalnoe prilozhenie\obj\Debug\net8.0-windows\GameColl.2ED1EDD2.Up2Date
+D:\123\games collection\games collectin\finalnoe prilozhenie\obj\Debug\net8.0-windows\GameCollection.dll
+D:\123\games collection\games collectin\finalnoe prilozhenie\obj\Debug\net8.0-windows\refint\GameCollection.dll
+D:\123\games collection\games collectin\finalnoe prilozhenie\obj\Debug\net8.0-windows\GameCollection.pdb
+D:\123\games collection\games collectin\finalnoe prilozhenie\obj\Debug\net8.0-windows\GameCollection.genruntimeconfig.cache
+D:\123\games collection\games collectin\finalnoe prilozhenie\obj\Debug\net8.0-windows\ref\GameCollection.dll
